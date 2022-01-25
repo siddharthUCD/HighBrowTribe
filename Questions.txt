@@ -1,0 +1,24 @@
+1/Design a Vending Machine
+2/Design a URL Shortening service like goo.gl or bit.ly
+3/Design a traffic control system
+4/Design a limit order book for trading systems
+5/Design a website like Pastebin
+6/Create your own Instagram
+7/Design global file sharing and storage apps like Google Drive or Dropbox
+8/Design a chat application like WhatsApp or Facebook Messenger
+9/Design a Twitter Clone
+10/Design a global video streaming service like YouTube or NetFlix
+11/Design an ATM machine
+12/Design a Web Crawler like Google
+13/Design Facebook’s Newsfeed? What kind of Algorithm will you use
+14/Design an API Rate Limiter
+15/Design Twitter Search
+16/Design Yelp or Nearby Friends
+17/Design a global ride-hailing service e.g. Uber, Grab, or Ola backend
+18/Design BookMyShow
+19/Design a social network + message board service sites like Quora, Reddit, or HackerNews
+20/Design an application like Airbnb
+21/Design an Elevator of the Lift system
+22/Designing an e-commerce model
+23/Design a Parking Lot system
+24/Create an autocomplete feature like word suggestions on search engines? Scale it to millions of users

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<packaging>pom</packaging>
+	<modules>
+		<module>TriberSystem</module>
+		<module>persistentSystem</module>
+		<module>communicator</module>
+		<module>interestSystem</module>
+		<module>centralCore</module>
+		<module>studentOne</module>
+		<module>studentTwo</module>
+        <module>studentThree</module>
+        <module>studentFour</module>
+    </modules>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.6.2</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>com.example</groupId>
+	<artifactId>Tribes</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Tribes</name>
+	<description>User Creation for Highbrow Tribes</description>
+	<properties>
+<!--		<akka.version>2.6.0-M8</akka.version>-->
+		<java.version>11</java.version>
+	</properties>
+
+</project>

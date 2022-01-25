@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restsystem" />
+        <module name="client" />
+        <module name="testclient3" />
+        <module name="communicator" />
+        <module name="client2" />
+        <module name="user" />
+        <module name="centralCore" />
+        <module name="triber" />
+        <module name="clientFour" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="centralCore" options="-parameters" />
+      <module name="client" options="-parameters" />
+      <module name="client2" options="-parameters" />
+      <module name="clientFour" options="-parameters" />
+      <module name="communicator" options="-parameters" />
+      <module name="restsystem" options="-parameters" />
+      <module name="testclient3" options="-parameters" />
+      <module name="triber" options="-parameters" />
+      <module name="user" options="-parameters" />
+    </option>
+  </component>
+</project>

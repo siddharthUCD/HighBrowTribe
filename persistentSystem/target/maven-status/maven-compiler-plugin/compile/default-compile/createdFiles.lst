@@ -1,0 +1,10 @@
+com/example/Tribes/Repo/Constants.class
+com/example/Tribes/TribesApplication.class
+com/example/Tribes/service/UserSystem/Main.class
+com/example/Tribes/Model/User.class
+com/example/Tribes/Model/TribeQuestionDetails.class
+com/example/Tribes/Model/Questions.class
+com/example/Tribes/service/actors/Persistent.class
+com/example/Tribes/Repo/TribeQuestionRepo.class
+com/example/Tribes/Repo/QuestionsRepo.class
+com/example/Tribes/Repo/UserRepo.class

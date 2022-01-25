@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/TriberSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/centralCore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/communicator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interestSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/persistentSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentFour/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentOne/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentThree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/studentTwo/src/main/java" charset="UTF-8" />
+  </component>
+</project>
